@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Branching step 1: edit the second line
+
+edit 3 merging
