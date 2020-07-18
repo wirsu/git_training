@@ -3,4 +3,4 @@ Branching step 1: edit the second line
 
 edit 3 merging
 
-making an external edit directly from website
+making an external edit directly from website.
